@@ -1,0 +1,38 @@
+[ {
+  "byStatus" : {
+    "ACTIVE" : 47,
+    "SUSPENDED" : 3,
+    "CANCELLED" : 6
+  },
+  "eventCount" : 56,
+  "date" : "2026-07-09T00:00:00Z",
+  "tenantId" : "tenant-alpha"
+}, {
+  "byStatus" : {
+    "ACTIVE" : 10
+  },
+  "eventCount" : 10,
+  "date" : "2026-07-09T00:00:00Z",
+  "tenantId" : "tenant-beta"
+}, {
+  "byStatus" : {
+    "ACTIVE" : 10
+  },
+  "eventCount" : 10,
+  "date" : "2026-07-09T00:00:00Z",
+  "tenantId" : "tenant-gamma"
+}, {
+  "byStatus" : {
+    "ACTIVE" : 10
+  },
+  "eventCount" : 10,
+  "date" : "2026-07-09T00:00:00Z",
+  "tenantId" : "tenant-delta"
+}, {
+  "byStatus" : {
+    "ACTIVE" : 10
+  },
+  "eventCount" : 10,
+  "date" : "2026-07-09T00:00:00Z",
+  "tenantId" : "tenant-epsilon"
+} ]
