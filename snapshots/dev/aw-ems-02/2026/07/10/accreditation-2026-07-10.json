@@ -1,0 +1,8 @@
+[ {
+  "byStatus" : {
+    "ACTIVE" : 222
+  },
+  "eventCount" : 222,
+  "date" : "2026-07-10T00:00:00Z",
+  "tenantId" : "tenant-alpha"
+} ]
