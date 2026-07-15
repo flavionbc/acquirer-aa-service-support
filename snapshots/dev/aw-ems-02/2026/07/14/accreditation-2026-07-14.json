@@ -1,38 +1,38 @@
 [ {
   "date" : "2026-07-14T00:00:00Z",
-  "tenantId" : "tenant-alpha",
+  "eventCount" : 41,
   "byStatus" : {
     "ACTIVE" : 35,
     "SUSPENDED" : 2,
     "CANCELLED" : 4
   },
-  "eventCount" : 41
+  "tenantId" : "tenant-alpha"
 }, {
   "date" : "2026-07-14T00:00:00Z",
-  "tenantId" : "tenant-beta",
+  "eventCount" : 8,
   "byStatus" : {
     "ACTIVE" : 8
   },
-  "eventCount" : 8
+  "tenantId" : "tenant-beta"
 }, {
   "date" : "2026-07-14T00:00:00Z",
-  "tenantId" : "tenant-gamma",
+  "eventCount" : 6,
   "byStatus" : {
     "ACTIVE" : 6
   },
-  "eventCount" : 6
+  "tenantId" : "tenant-gamma"
 }, {
   "date" : "2026-07-14T00:00:00Z",
-  "tenantId" : "tenant-delta",
+  "eventCount" : 8,
   "byStatus" : {
     "ACTIVE" : 8
   },
-  "eventCount" : 8
+  "tenantId" : "tenant-delta"
 }, {
   "date" : "2026-07-14T00:00:00Z",
-  "tenantId" : "tenant-epsilon",
+  "eventCount" : 8,
   "byStatus" : {
     "ACTIVE" : 8
   },
-  "eventCount" : 8
+  "tenantId" : "tenant-epsilon"
 } ]
