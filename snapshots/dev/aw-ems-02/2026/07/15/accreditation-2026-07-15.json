@@ -1,0 +1,48 @@
+[ {
+  "eventCount" : 56,
+  "date" : "2026-07-15T00:00:00Z",
+  "tenantId" : "tenant-A",
+  "byStatus" : {
+    "ACTIVE" : 42,
+    "SUSPENDED" : 5,
+    "CANCELLED" : 8,
+    "PENDING_ANALYSIS" : 1
+  }
+}, {
+  "eventCount" : 415,
+  "date" : "2026-07-15T00:00:00Z",
+  "tenantId" : "tenant-alpha",
+  "byStatus" : {
+    "ACTIVE" : 350,
+    "SUSPENDED" : 22,
+    "CANCELLED" : 43
+  }
+}, {
+  "eventCount" : 96,
+  "date" : "2026-07-15T00:00:00Z",
+  "tenantId" : "tenant-beta",
+  "byStatus" : {
+    "ACTIVE" : 96
+  }
+}, {
+  "eventCount" : 96,
+  "date" : "2026-07-15T00:00:00Z",
+  "tenantId" : "tenant-gamma",
+  "byStatus" : {
+    "ACTIVE" : 96
+  }
+}, {
+  "eventCount" : 96,
+  "date" : "2026-07-15T00:00:00Z",
+  "tenantId" : "tenant-delta",
+  "byStatus" : {
+    "ACTIVE" : 96
+  }
+}, {
+  "eventCount" : 96,
+  "date" : "2026-07-15T00:00:00Z",
+  "tenantId" : "tenant-epsilon",
+  "byStatus" : {
+    "ACTIVE" : 96
+  }
+} ]
